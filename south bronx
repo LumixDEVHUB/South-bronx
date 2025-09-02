@@ -1,7 +1,4 @@
 
-- LEAKED AND DEOBFUSCATOR BY SYPHER HUB  discord.gg/jxJ8HNQKjH
---CREDIT SYPHER HUB
-
 local player = game.Players.LocalPlayer
 local uis = game:GetService("UserInputService")
 local runService = game:GetService("RunService")
@@ -110,13 +107,13 @@ local LocalPlayer = game:GetService('Players').LocalPlayer
 local Username = LocalPlayer.Name
 
 -- // Show Notification on Script Load
-Library:Notify('Midnight Hub/Skid Hub South Bronx Script Cracked and Leaked by Sypher hub', 99999)
-Library:Notify('discord.gg/jxJ8HNQKjH', 99999)
-Library:Notify('SYPHER HUB ON TOP!!!', 99999)
+Library:Notify('Lumixhuv scripts', 9)
+Library:Notify('discord.gg/hBhKdhDgmT', 9)
+Library:Notify('LUMIX WAS HERE', 9)
 
 -- // Create Main UI Window
 local Window = Library:CreateWindow({
-    Title = 'Midnight Hub | Cracked and Leaked By SYPHER HUB Scripts | .discord.gg/jxJ8HNQKjH',
+    Title = LumixHUB|South bronx',
     Center = true,
     AutoShow = true,
     TabPadding = 8,
@@ -150,12 +147,12 @@ local DamageGroup = Tabs['Teleports']:AddRightGroupbox('DamageTeleports & BikeTe
 local MenuGroup = Tabs['Settings']:AddLeftGroupbox('Menu')
 local MenuGroupRight = Tabs['Settings']:AddRightGroupbox('Server')
 
-local madeByLabel = MenuGroup:AddLabel('Made by: Andrew The skid ')
-local madeByLabel2 = MenuGroup:AddLabel('Cracked and Leaked by: FX Scripts ')
-local madeByLabel3 = MenuGroup:AddLabel('https://discord.gg/Neqa57vzHr ')
+local madeByLabel = MenuGroup:AddLabel('Made by: LumixDEV ')
+local madeByLabel2 = MenuGroup:AddLabel('LumixDEV <3 ')
+local madeByLabel3 = MenuGroup:AddLabel('https://discord.gg/hBhKdhDgmT ')
 
-MenuGroup:AddButton('Copy SYPHER Scripts Discord', function()
-    setclipboard('https://discord.gg/jxJ8HNQKjH')
+MenuGroup:AddButton('Copy LUMIXHUB Scripts Discord', function()
+    setclipboard('https://discord.gg/hBhKdhDgmT')
     Library:Notify('Discord link copied!', 3)
 end)
 
@@ -511,7 +508,7 @@ PlayerGroup:AddToggle('HitboxExpander', {
 })
 
 getgenv().Nitradenags = false
-getgenv().CustomName = 'midnight Hub On Bottom | SYPHER HUB Scripts on top'
+getgenv().CustomName = 'Lumix hub | scripts'
 getgenv().Nitradenagrs = false
 getgenv().OriginalName = nil
 getgenv().CustomNameIngame = 'Name'
